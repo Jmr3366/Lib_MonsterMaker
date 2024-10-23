@@ -1,0 +1,1 @@
+name,source,url,imgURL,fullName,cr,xp,alignmentProf,alignment,size,type,init,senses,perception,aura,hp,eac,kac,fort,ref,will,dr,immune,sr,speed,melee,multiattack,ranged,space,reach,offensiveAbilities,spellAbilities,str,dex,con,int,wis,cha,skills,languages,otherAbilities,environment,organization,specialAbilities,description,extra,emptyVars,dataSet

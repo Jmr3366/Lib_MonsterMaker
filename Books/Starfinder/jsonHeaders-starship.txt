@@ -1,0 +1,1 @@
+name,source,url,imgURL,fullName,starship,alignment,size,type,speed,maneuver,drift,ac,tl,hp,dt,ct,shields,attack,skills,powerCore,driftEng,systems,expBays,otherAbilities,crew,environment,organization,specialAbilities,description,extra,emptyVars,dataset

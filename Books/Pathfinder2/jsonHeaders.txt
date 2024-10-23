@@ -1,0 +1,1 @@
+name,fullName,source,url,imgURL,description,cr,alignment,size,type,trait,jobDesc,perception,languages,skills,str,dex,con,int,wis,cha,skillSpec,items,ac,fort,ref,will,hp,immune,weakness,resist,defense,speed,melee,ranged,spells,offense,extra,emptyVars,dataSet
