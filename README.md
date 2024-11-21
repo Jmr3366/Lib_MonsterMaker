@@ -1,3 +1,3 @@
 # Lib_Monster-Maker
-![Lib_Monster-Maker](https://github.com/Jmr3366/Lib_Monster-Maker/blob/main/Lib-Monster-Maker.webp)
+![Lib_Monster-Maker](https://github.com/Jmr3366/Lib_MonsterMaker/blob/main/Lib-MonsterMaker.webp)
 Token creation tool for MapTool
